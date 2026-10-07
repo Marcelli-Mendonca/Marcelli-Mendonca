@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2563EB&height=180&section=header&text=Marcelli%20Mendon%C3%A7a&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvedora%20J%C3%BAnior%20%7C%20Foco%20em%20Seguran%C3%A7a&descAlignY=58&descSize=18" alt="Banner Marcelli Mendonça" />
 
 <a href="https://github.com/Marcelli-Mendonca/Marcelli-Mendonca">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Desenvolvedora+J%C3%BAnior;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Engenharia+de+Software+%7C+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Rumo+a+DevSecOps" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Desenvolvedora+J%C3%BAnior;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Engenharia+de+Software;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Rumo+a+DevSecOps" alt="Texto animado" />
 </a>
 
 <br/>
